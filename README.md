@@ -1,2 +1,2 @@
 # Data_Scienсe
-Here are data science projects focused on machine learning
+В этом депозитории собраны проекты из области базового анализа данных и машинного обучения.
